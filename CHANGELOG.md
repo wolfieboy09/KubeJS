@@ -2,7 +2,8 @@
 
 
 ## Unreleased
-- /
+- Readd error handling during the recipe event (#1142)
+- Fix BlockItemBuilder translation key resolution/duplicate key (#1143)
 
 ## [8.0.1] - 2026-06-08
 - Hotfix for the release version of NeoForge, sorry to anybody who got a Mixin crash when they tried to open a world!
