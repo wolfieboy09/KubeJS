@@ -1,6 +1,9 @@
 # changelog
 
 ## Unreleased
+- /
+
+## [8.0.2] - 2026-06-12
 
 - Readd error handling during the recipe event (#1142)
 - Fix BlockItemBuilder translation key resolution/duplicate key (#1143)
