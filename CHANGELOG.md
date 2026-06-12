@@ -5,6 +5,7 @@
 - Readd error handling during the recipe event (#1142)
 - Fix BlockItemBuilder translation key resolution/duplicate key (#1143)
 - Reimplement basic JEI integration. EMI and REI at the time of writing are not released for 26.1 yet and will follow later.
+- Fix registry type coercion not working (...because it didn't return a value)
 
 ## [8.0.1] - 2026-06-08
 
