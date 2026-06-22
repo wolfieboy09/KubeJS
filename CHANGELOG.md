@@ -1,6 +1,9 @@
 # changelog
 
 ## Unreleased
+- /
+
+## [8.0.3] - 2026-06-22
 
 - Builders now generate the required model data for item and block-item tinting (#1156)
 - Fix `Client` binding not being available from startup/client scripts (#1152)
