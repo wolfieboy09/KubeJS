@@ -135,6 +135,13 @@ publishing {
 			}
 		}
 	}
+
+	publications {
+		create<MavenPublication>("mavenNeoForge") {
+			artifactId = base.archivesName.get()
+			from(components["java"])
+		}
+	}
 }
 
 /*unifiedPublishing {
